@@ -1,5 +1,5 @@
-- I’m @MoHowler, Self taught Javascript Programmer and Website Developer looking for entry job in the indusrty.
-- Check out my Repository for a variety of projects using HTML, CSS and Javascript.
+- I’m @MoHowler, full stack developer student. musician and coding fan.
+- Check out my Repository for a variety of projects.
 
 
 <!---
