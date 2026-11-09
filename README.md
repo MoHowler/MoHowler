@@ -1,4 +1,5 @@
-- I’m @MoHowler, full stack developer student. musician and coding fan.
+- I’m @MoHowler, musician and coding fan.
+- Currently studying Bachelor of Software Engineering Artificial Intelligence @ MDS. 
 - Check out my Repository for a variety of projects.
 
 
